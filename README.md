@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vikashm1996/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -19,8 +18,7 @@
 - 📊 4+ years building BI solutions across Power BI, SQL, Azure, Databricks & Microsoft Fabric
 - 🎓 Microsoft Certified: **PL-300**, **DP-600**, **DP-700**
 - 🌱 Currently deepening skills in Fabric (Lakehouse, Warehouse, Real-Time Intelligence) and PySpark
-- 💡 Exploring the intersection of data, finance, and entrepreneurship
-- 📍 Based in North India
+- 📍 Based in India
 
 ---
 
@@ -52,12 +50,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vm8181&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vm8181&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vm8181&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -65,11 +63,11 @@
 ### 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/REPO_NAME_1">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/vm8181/Weather-Forecasting-DE-BI">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=vm8181&repo=Weather-Forecasting-DE-BI&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/REPO_NAME_2">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/vm8181/Goodly-FMCG-Case-Study-PowerBI">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=vm8181&repo=Goodly-FMCG-Case-Study-PowerBI&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
