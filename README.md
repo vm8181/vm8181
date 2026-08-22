@@ -94,30 +94,8 @@ Translating technical findings into business recommendations · Presenting to le
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vm8181&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vm8181&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/vm8181/Weather-Forecasting-DE-BI">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=vm8181&repo=Weather-Forecasting-DE-BI&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/vm8181/Goodly-FMCG-Case-Study-PowerBI">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=vm8181&repo=Goodly-FMCG-Case-Study-PowerBI&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/vm8181/SQL_Sets">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=vm8181&repo=SQL_Sets&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/vm8181/Python_For_Data">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=vm8181&repo=Python_For_Data&theme=tokyonight&hide_border=true" />
-  </a>
+  <img height="165" src="[https://github-readme-stats.vercel.app/api?username=vm8181&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=vm8181&show_icons=true&theme=tokyonight&hide_border=true)" />
+  <img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=vm8181&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats-sigma-five.vercel.app/api?username=vm8181&show_icons=true&theme=tokyonight&hide_border=true)" />
 </p>
 
 ---
