@@ -23,7 +23,7 @@
 - 📺 Sharing BI/analytics content on YouTube — [@insightMantra](https://www.youtube.com/@insightMantra)
 - 📈 Practicing & competing on [Kaggle](https://www.kaggle.com/vikashmishra6991)
 - 🌱 Currently deepening Microsoft Fabric (Lakehouse, Warehouse, Real-Time Intelligence) & PySpark
-- 🌍 Based in Ludhiana, Punjab, India — Open to opportunities
+- 🌍 Based in North, India
 
 ---
 
