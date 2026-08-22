@@ -2,7 +2,7 @@
 <h3 align="center">Data Analytics & Business Intelligence Professional</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Requirements+to+Data+Models+to+Decisions;Power+BI+%7C+SQL+%7C+Azure+%7C+Databricks+%7C+Fabric;50%2B+Projects+%7C+E-commerce%2C+Supply+Chain%2C+Real+Estate%2C+EdTech;3x+Microsoft+Certified+Professional" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Requirements+to+Data+Models+to+Decisions;Power+BI+%7C+SQL+%7C+Azure+%7C+Databricks+%7C+Fabric;50%2B+Projects+%7C+E-commerce%2C+Supply+Chain%2C+Real+Estate%2C+Finance;3x+Microsoft+Certified+Professional" alt="Typing SVG" />
 </p>
 
 <p align="center">
