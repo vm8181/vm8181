@@ -82,8 +82,6 @@ I turn business problems into data solutions — from gathering requirements and
 
 ### 💡 The Story So Far
 
-### 💡 The Story So Far
-
 Early on, I used to think my job was to build what was asked for. Over time, that shifted — the real job is understanding the actual business problem behind the ask, cutting out the manual and repetitive work wherever it exists, and building whatever solves it, whether that ends up being an Excel report, a BI dashboard, or just clean data someone else needs downstream.
 
 So I ask a lot of questions. Sometimes the same one three different ways, until I'm sure I understand the process behind the request, not just the request itself. I've never been shy about saying "I don't fully get this yet, walk me through it" — that question has saved more projects than it's ever cost me credibility. As W. Edwards Deming put it, "In God we trust, all others must bring data" — but data only narrows the argument if you first understood the argument.
