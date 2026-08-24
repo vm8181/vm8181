@@ -18,29 +18,18 @@ I turn business problems into data solutions — from gathering requirements and
 
 ### 🎯 What I Do
 
-**Requirements & Discovery**
-Stakeholder interviews · BRD/FRD documentation · KPI definition · Source-to-target mapping · Requirement traceability
-
-**Data Modeling**
-Star & snowflake schema design · Fact/dimension modeling · Relationship & cardinality design · Slowly changing dimensions · Semantic model architecture
-
-**Data Transformation & Engineering**
-ETL/ELT pipeline design · Power Query (M) · PySpark transformations · Data cleansing & standardization · Incremental refresh strategy · Medallion architecture (Bronze/Silver/Gold)
-
-**Data Analysis**
-Exploratory analysis · Root-cause & trend analysis · Cohort & funnel analysis · Statistical summarization · Ad-hoc business queries in SQL
-
-**DAX & Calculation Engine**
-Time intelligence · Advanced iterators & context transition · Calculation groups · Measure optimization for query performance
-
-**Performance & Governance**
-VertiPaq storage optimization · Query folding · Model size reduction · Version control for semantic models · Documentation & data dictionaries
-
-**Visualization & Storytelling**
-Executive-ready dashboard design · Report UX & accessibility · Row-level security · Self-service enablement for business users
-
-**Stakeholder Communication**
-Translating technical findings into business recommendations · Presenting to leadership · Requirement sign-off & change management
+| Competency | Skills |
+|---|---|
+| **Requirements & Discovery** | Stakeholder interactions · BRD/FRD documentation · KPI definition · Source-to-target mapping · Requirement traceability |
+| **Data Warehousing** | Kimball & Inmon methodologies · OLTP vs OLAP design · Data mart architecture · Data lake vs warehouse vs lakehouse · Partitioning & indexing strategy · Data governance & quality frameworks |
+| **Data Modeling** | Star & snowflake schema design · Fact/dimension modeling · Relationship & cardinality design · Slowly changing dimensions · Semantic model architecture |
+| **Data Transformation & Engineering** | ETL/ELT pipeline design · Power Query (M) · PySpark transformations · Data cleansing & standardization · Incremental refresh strategy · Medallion architecture (Bronze/Silver/Gold) |
+| **Data Analysis** | Exploratory analysis · Root-cause & trend analysis · Cohort & funnel analysis · Statistical summarization · Ad-hoc business queries in SQL |
+| **DAX & Calculation Engine** | Time intelligence · Advanced iterators & context transition · Calculation groups · Measure optimization for query performance |
+| **Performance & Governance** | VertiPaq storage optimization · Query folding · Model size reduction · Version control for semantic models · Documentation & data dictionaries |
+| **Automation** | Python scripting for repetitive tasks · Databricks Jobs & Workflows orchestration · Power Automate flows · Scheduled refresh & failure alerting · Pipeline orchestration |
+| **Visualization & Storytelling** | Executive-ready dashboard design · Report UX & accessibility · Row-level security · Self-service enablement for business users |
+| **Stakeholder Communication** | Translating technical findings into business recommendations · Presenting to leadership · Requirement sign-off & change management |
 
 ---
 
@@ -91,16 +80,13 @@ Translating technical findings into business recommendations · Presenting to le
 
 ---
 
-### 📈 GitHub Stats
+### 💡 The Story So Far
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+I started out fascinated by one simple question: *why did that number change?* Chasing that question pulled me toward the layer where raw, messy data becomes something a business can actually stand behind — and that's where I've spent 4+ years and 50+ projects across E-commerce, Supply Chain, Real Estate, Finance & EdTech.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+I've learned that most "bad dashboards" aren't a visualization problem — they're a modeling problem wearing a chart's clothes. So I spend as much time upstream as downstream: building clean transformation pipelines, designing models that hold up under real business questions, and putting in the governance so the same number means the same thing everywhere it's used. I've taken semantic models that used to lag and made them feel instant. I've automated the manual refreshes people used to dread. And I've sat with stakeholders who couldn't quite name what they needed, and turned that ambiguity into something engineered, tested, and trusted.
+
+Three Microsoft certifications later (PL-300, DP-600, DP-700), the work is still the same at its core — take data nobody trusts yet, and engineer it into data everybody relies on.
 
 ---
 
