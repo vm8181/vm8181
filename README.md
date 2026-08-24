@@ -2,7 +2,7 @@
 <h3 align="center">Data Analytics & Business Intelligence Professional</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Requirements+to+Data+Models+to+Decisions;Power+BI+%7C+SQL+%7C+Azure+%7C+Databricks+%7C+Fabric;50%2B+Projects+Across+5+Industries;3x+Microsoft+Certified+Professional" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Requirements+to+Data+Models+to+Decisions;Power+BI+%7C+SQL+%7C+Azure+%7C+Databricks+%7C+Fabric;Turning+Raw+Data+Into+Business+Trust" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -82,13 +82,13 @@ I turn business problems into data solutions — from gathering requirements and
 
 ### 💡 The Story So Far
 
-You know that moment when a number on a report just doesn't feel right, and everyone in the room starts pointing fingers at "the data"? That's usually where I show up.
+Early on, I used to think my job was to build what was asked for. It took a few dashboards nobody actually opened to realize the real job was understanding the business well enough to know what should have been asked for in the first place.
 
-I got into this because I wanted to know *why* the number moved, not just report that it did. Four-plus years and 50+ projects later — across E-commerce, Supply Chain, Real Estate, Finance & EdTech — I still think most "bad dashboard" problems are actually modeling problems wearing a chart's disguise. So before I touch a visual, I'm usually somewhere upstream: cleaning the pipeline, fixing the model, making sure the same number means the same thing no matter who's looking at it.
+So I ask a lot of questions. Sometimes the same one three different ways, until I'm sure I understand the process behind the request, not just the request itself. I've never been shy about saying "I don't fully get this yet, walk me through it" — that question has saved more projects than it's ever cost me credibility.
 
-Some of what that's looked like — semantic models that used to lag, now loading instantly. Manual refreshes people used to dread, now just... automated. Stakeholders who couldn't quite say what they needed, until we sat down and figured it out together.
+That habit is also why my skill set kept expanding in directions I didn't plan for. Reporting wasn't enough once I needed to know why a model was slow, so I went deeper into how relationships, filters, and calculations actually behave under the hood. SQL wasn't enough once the real bottleneck turned out to be upstream, so I moved into cleaning and transforming data before it ever reaches a report — building it the way a pipeline should be built, not just patched to work for now.
 
-If you're building something and the data side of it feels shaky, that's usually a conversation I'd enjoy having.
+What I actually care about is simpler than any of that: did this change a decision someone made? A few times, the answer's come back as someone telling me a report I built is the first thing they check every morning. That's the kind of feedback that's kept me doing this.
 
 ---
 
