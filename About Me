@@ -12,7 +12,7 @@
   <a href="https://www.kaggle.com/vikashmishra6991"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
 
-I turn business problems into data solutions — from gathering requirements and engineering reliable data pipelines, through modeling and analysis, to automating workflows and delivering governed, performant dashboards decision-makers actually trust. 4+ years, 50+ projects across E-commerce, Supply Chain, Real Estate, Finance & EdTech. 3x Microsoft Certified (PL-300, DP-600, DP-700, DP-900).
+I turn business problems into data solutions — from gathering requirements and engineering reliable data pipelines, through modeling and analysis, to automating workflows and delivering governed, performant dashboards decision-makers actually trust. 4+ years, 50+ projects across E-commerce, Supply Chain, Real Estate, Finance & EdTech. 3x Microsoft Certified (PL-300, DP-600, DP-700).
 
 ---
 
@@ -39,7 +39,7 @@ I turn business problems into data solutions — from gathering requirements and
 
 <p align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/DAX_Studio-2E9EF7?style=for-the-badge&logo=data:image/png;base64,&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX_Studio-2E9EF7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tabular_Editor-1A1A1A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ALM_Toolkit-0078D4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Measure_Killer-DC3545?style=for-the-badge" />
@@ -82,11 +82,13 @@ I turn business problems into data solutions — from gathering requirements and
 
 ### 💡 The Story So Far
 
-I started out fascinated by one simple question: *why did that number change?* Chasing that question pulled me toward the layer where raw, messy data becomes something a business can actually stand behind — and that's where I've spent 4+ years and 50+ projects across E-commerce, Supply Chain, Real Estate, Finance & EdTech.
+You know that moment when a number on a report just doesn't feel right, and everyone in the room starts pointing fingers at "the data"? That's usually where I show up.
 
-I've learned that most "bad dashboards" aren't a visualization problem — they're a modeling problem wearing a chart's clothes. So I spend as much time upstream as downstream: building clean transformation pipelines, designing models that hold up under real business questions, and putting in the governance so the same number means the same thing everywhere it's used. I've taken semantic models that used to lag and made them feel instant. I've automated the manual refreshes people used to dread. And I've sat with stakeholders who couldn't quite name what they needed, and turned that ambiguity into something engineered, tested, and trusted.
+I got into this because I wanted to know *why* the number moved, not just report that it did. Four-plus years and 50+ projects later — across E-commerce, Supply Chain, Real Estate, Finance & EdTech — I still think most "bad dashboard" problems are actually modeling problems wearing a chart's disguise. So before I touch a visual, I'm usually somewhere upstream: cleaning the pipeline, fixing the model, making sure the same number means the same thing no matter who's looking at it.
 
-Three Microsoft certifications later (PL-300, DP-600, DP-700), the work is still the same at its core — take data nobody trusts yet, and engineer it into data everybody relies on.
+Some of what that's looked like — semantic models that used to lag, now loading instantly. Manual refreshes people used to dread, now just... automated. Stakeholders who couldn't quite say what they needed, until we sat down and figured it out together.
+
+If you're building something and the data side of it feels shaky, that's usually a conversation I'd enjoy having.
 
 ---
 
