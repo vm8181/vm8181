@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://mishravikash.vercel.app/index.html"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://mishravikash.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/vikashm1996/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.youtube.com/@insightMantra"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://www.kaggle.com/vikashmishra6991"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
 
-I turn business problems into data solutions — from gathering requirements and engineering reliable data pipelines, through modeling and analysis, to automating workflows and delivering governed, performant dashboards decision-makers actually trust. 5+ years, 50+ projects across E-commerce, Supply Chain, Real Estate, Finance & EdTech. 3x Microsoft Certified (PL-300, DP-600, DP-700).
+I turn business problems into data solutions — from gathering requirements and engineering reliable data pipelines, through modeling and analysis, to automating workflows and delivering governed, performant dashboards decision-makers actually trust. <!--YEARS-->5+<!--/YEARS--> years, 50+ projects across E-commerce, Supply Chain, Real Estate, Finance & EdTech. 4x Microsoft Certified (PL-300, DP-600, DP-700, DP-900).
 
 ---
 
@@ -77,6 +77,7 @@ I turn business problems into data solutions — from gathering requirements and
 | PL-300: Microsoft Power BI Data Analyst | Microsoft |
 | DP-600: Fabric Analytics Engineer Associate | Microsoft |
 | DP-700: Fabric Data Engineer Associate | Microsoft |
+| DP-900: Microsoft Azure Data Fundamentals | Microsoft |
 
 ---
 
@@ -93,7 +94,7 @@ What I actually care about is simpler than any of that: did this change a decisi
 ---
 
 <p align="center">
-  <a href="https://mishravikash.netlify.app/">Portfolio</a> ·
+  <a href="https://mishravikash.vercel.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/vikashm1996/">LinkedIn</a> ·
   vikashm6991@gmail.com
 </p>
