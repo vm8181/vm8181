@@ -12,7 +12,7 @@
   <a href="https://www.kaggle.com/vikashmishra6991"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
 
-I turn business problems into data solutions — from gathering requirements and engineering reliable data pipelines, through modeling and analysis, to automating workflows and delivering governed, performant dashboards decision-makers actually trust. 4+ years, 50+ projects across E-commerce, Supply Chain, Real Estate, Finance & EdTech. 3x Microsoft Certified (PL-300, DP-600, DP-700).
+I turn business problems into data solutions — from gathering requirements and engineering reliable data pipelines, through modeling and analysis, to automating workflows and delivering governed, performant dashboards decision-makers actually trust. 5+ years, 50+ projects across E-commerce, Supply Chain, Real Estate, Finance & EdTech. 3x Microsoft Certified (PL-300, DP-600, DP-700).
 
 ---
 
