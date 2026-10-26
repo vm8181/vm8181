@@ -1,5 +1,5 @@
 <h1 align="center">Vikash Mishra</h1>
-<h3 align="center">Data Analytics & Business Intelligence Professional</h3>
+<h3 align="center">Data Analytics & Engineering Professional</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Requirements+to+Data+Models+to+Decisions;Power+BI+%7C+SQL+%7C+Azure+%7C+Databricks+%7C+Fabric;Turning+Raw+Data+Into+Business+Trust" alt="Typing SVG" />
